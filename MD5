@@ -1,0 +1,17 @@
+f51b53838d70de4867a710155187ab6b *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+0f26e620b7e62e9303233979eee1bbb0 *R/dinamic.R
+39714b82d8b6fc5605b5534d6f109dc3 *data/annot.file.txt.gz
+7039e242af136d98073a5a9b4196e298 *data/dinamic.RData
+b87b89e3d72514b195f786f3fd7bcddf *data/wilms.data.rda
+ebf838f8c20e1470c6aeed214d677d66 *data/wilms.markers.rda
+12f3f9a7d5ad62f17c05bce3d2218ed4 *man/annot.file.rd
+86f64b582d80a4a3802269351a1f8c11 *man/detailedLook.rd
+4464b02edf13f9c6f02c21cfae2f1aa7 *man/dinamic-package.rd
+a7ca777e16625145aff916b0c161b66b *man/findNull.rd
+279c64ae1157d552291d7c0db67d263f *man/makeCytoband.rd
+485276a4e153d4d039835171359f428b *man/peeling.rd
+46252159f705720c748f161d15ab900b *man/quickLook.rd
+270e456b15c3b479748fa2aa817c20d6 *man/recodeBinary.rd
+b76067d0b899ba120998c777c34919db *man/wilms.data.rd
+2ffe8f812cd350b43e6d8e0c82d63bee *man/wilms.markers.rd
